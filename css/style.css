@@ -9,7 +9,7 @@ body{
 
 .container {
     background-color: rgb(150, 150, 150);
-    border: 2px solid black;
+    border: 1px solid black;
     position: relative;
     margin: 10px;
     text-align: justify;
